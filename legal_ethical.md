@@ -3,7 +3,6 @@
 # LEGAL ETHICAL STANDARDS TASK
 
 
-
 ## SCENARIO 1
 Is the company breaking any laws with their proposal?
 
